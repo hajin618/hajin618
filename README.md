@@ -49,10 +49,9 @@
 <br>
 <br>
 
-## ✅Problem Solving
-  
+## 📈Stats
+![hajin618's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajin618&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwerty1)](https://solved.ac/qwerty1)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=qwerty1&theme=warm)
 
 <br>
 <br>
@@ -63,6 +62,7 @@
 |:--:|:--:|:--:|
 |SK C&C|Manager|2024.01 ~ 현재|
 |삼성청년SW아카데미(SSAFY)|9기|2023.01 ~ 2023.12|
+|(주)모노라마|인턴|2022.06 ~ 2022.08|
 |가톨릭대학교 데이터베이스 연구실|학부연구생|2022.01 ~ 2023.02|
 |가톨릭대학교 컴퓨터정보공학 && 미디어공학|Student|2019.03 ~ 2023.02|
 
